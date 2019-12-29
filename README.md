@@ -7,4 +7,4 @@ It contains information in the following topics with/ with reference links/ sugg
 2) Usage instructions/ Protocols
 
 Disclamer :
-This is just for just for reference and the content in the repo donot gurantee correctness of information and should not be used for any major technical / life critical /emergencies or any other purposes
+This is just for just for reference and the content in the repo donot gurantee correctness of information and should not be used for any  academic/ technical / life critical /emergencies or any other purposes
